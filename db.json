@@ -1,0 +1,18 @@
+{
+    "product": [{
+        "id": 1,
+        "name": "Laptop",
+        "quantity": 10
+    },
+        {
+            "id": 2,
+            "name": "Smartphone",
+            "quantity": 25
+        },
+        {
+            "id": 3,
+            "name": "Headphones",
+            "quantity": 50
+        }
+    ]
+}
