@@ -1,18 +1,40 @@
 {
-    "product": [{
-        "id": 1,
-        "name": "Laptop",
-        "quantity": 10
+  "product": [
+    {
+      "id": "1",
+      "sku": "SKU001",
+      "name": "Laptop",
+      "description": "High performance laptop for professionals.",
+      "unitPrice": 999.99,
+      "imageUrl": "https://example.com/images/laptop.jpg",
+      "active": true,
+      "unitsInStock": 10,
+      "dateCreated": "2025-07-11T08:05:20Z",
+      "lastUpdated": "2025-07-11T08:05:20Z"
     },
-        {
-            "id": 2,
-            "name": "Smartphone",
-            "quantity": 25
-        },
-        {
-            "id": 3,
-            "name": "Headphones",
-            "quantity": 50
-        }
-    ]
+    {
+      "id": "2",
+      "sku": "SKU002",
+      "name": "Smartphone",
+      "description": "Latest model smartphone with advanced features.",
+      "unitPrice": 699.99,
+      "imageUrl": "https://example.com/images/smartphone.jpg",
+      "active": true,
+      "unitsInStock": 25,
+      "dateCreated": "2025-07-11T08:05:20Z",
+      "lastUpdated": "2025-07-11T08:05:20Z"
+    },
+    {
+      "id": "3",
+      "sku": "SKU003",
+      "name": "Headphones",
+      "description": "Wireless headphones with noise cancellation.",
+      "unitPrice": 199.99,
+      "imageUrl": "https://example.com/images/headphones.jpg",
+      "active": true,
+      "unitsInStock": 50,
+      "dateCreated": "2025-07-11T08:05:20Z",
+      "lastUpdated": "2025-07-11T08:05:20Z"
+    }
+  ]
 }
